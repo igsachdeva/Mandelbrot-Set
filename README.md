@@ -1,16 +1,20 @@
-# mandelbrot-visualizer 🔬
-A simple mandelbrot visualization program.
+Mandelbrot Visualizer: A Fascinating Exploration 🔬
+Discover the captivating world of Mandelbrot visualization through this user-friendly program.
 
-This program was designed primarily as a thought exercise into precisions and SFML. I would have loved to have added a Quad-tree and multithreading, but that'll have to wait for another day.
+This project served as a captivating mental exercise, allowing me to delve into the realms of precision and SFML. While I had aspirations to incorporate a Quad-tree and multithreading, those ideas will have to await future endeavors.
 
-## Controls 🕹
-- O: Reset the view
-- Left Click: zoom at specified location
-- Scroll: increase/decrease max. iterations
+User Controls 🕹
+Press 'O' to reset the view
+Left-click to zoom in on a specific location
+Scroll to adjust the maximum number of iterations
+Gallery of Wonders 📸
+An exemplary depiction of the magnificent Mandelbrot set
+An astonishingly detailed close-up of the enigmatic Mandelbrot set
 
-## Gallery 📸
-![An Example of the mandelbrot set](https://i.imgur.com/w6l7CdO.png)
-![A very zoomed in example of the mandelbrot set](https://i.imgur.com/utUvJM3.png)
+Expression of Gratitude 🍗
+I extend my heartfelt gratitude to the brilliant minds behind SFML, whose exceptional library has made projects like this one achievable.
 
-## Giving Thanks 🍗
-I never would have been able to do anything like this without the amazing library made by the brainiacs behind [SFML](https://www.sfml-dev.org/)! 
+
+
+
+
